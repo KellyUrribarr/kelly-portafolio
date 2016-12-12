@@ -212,6 +212,11 @@ ul li a{
 .fa{
 	color: #909090;
 }
+
+.fa:hover{
+	color: yellow;
+}
+
 /*========*/
 navbar-inversec{
 	background-color: transparent !important;
@@ -224,6 +229,9 @@ navbar-inversec{
 /*========*/
 .fa-phone-square, .fa-envelope{
 	color: #909090;
+}
+.fa-phone-square:hover, .fa-envelope:hover{
+	color: #909090 !important;
 }
 /*========*/
 .fa-download{
@@ -245,6 +253,13 @@ a .descarga{
     text-decoration: none;
     background-color: #000;
     padding:10px;
+}
+
+.espacio a:hover{
+    color: #fff;
+    text-decoration: none;
+    background-color: yellow;
+    padding: 10px;
 }
 /*========*/
 .diseno{
