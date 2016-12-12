@@ -600,8 +600,8 @@ body {
 		line-height: 3em;
 	}
 }
-
-
-
-
-
+.arriba {
+    float: right;
+    top: -30px;
+    font-size: 40px;
+}
