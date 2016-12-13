@@ -337,7 +337,7 @@ body {
 .cn-button {
 	position: absolute;
 	top: 150%;
-	left: 46%;
+	left: 50%;
 	z-index: 11;
 	margin-top: -2.25em;
 	margin-left: -2.25em;
@@ -365,7 +365,7 @@ body {
 .csstransforms .cn-wrapper {
     position: absolute;
     top: 150%;
-    left: 45.5%;
+    left: 50%;
     z-index: 10;
     margin-top: -11em;
     margin-left: -13.5em;
