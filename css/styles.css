@@ -197,7 +197,7 @@ ul li a{
 /*========*/
 .iconos{
 	display: inline;
-	font-size: 20px;
+	font-size: 28px;
 	margin: 2px;
 }
 /*========*/
@@ -258,7 +258,7 @@ a .descarga{
 .espacio a:hover{
     color: #fff;
     text-decoration: none;
-    background-color: yellow;
+    background-color: #909090;
     padding: 10px;
 }
 /*========*/
@@ -619,4 +619,11 @@ body {
     float: right;
     top: -30px;
     font-size: 40px;
+}
+
+.navbar-fixed-bottom {
+    bottom: 0;
+    margin-bottom: 0;
+    border-width: 1px 0 0;
+    background-color: #fff;
 }
