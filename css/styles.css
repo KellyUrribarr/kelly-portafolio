@@ -199,6 +199,7 @@ ul li a{
 	display: inline;
 	font-size: 28px;
 	margin: 2px;
+	padding-left: 4%;
 }
 /*========*/
 .centrar{
@@ -626,4 +627,10 @@ body {
     margin-bottom: 0;
     border-width: 1px 0 0;
     background-color: #fff;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    width: 100% !important;
+    height: auto;
 }
